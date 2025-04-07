@@ -1,7 +1,7 @@
 import cohere
 
 # Paste your API key here
-co = cohere.Client("hS8P2Ncshdsh8SDrRggwoZ0kjzD5qyu72zSLeTQI")
+co = cohere.Client("key here")
 
 # Sample long email thread
 email_thread = """
