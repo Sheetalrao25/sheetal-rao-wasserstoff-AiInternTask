@@ -32,18 +32,24 @@ Copy
 Edit
 git clone https://github.com/your-repo/ai-email-assistant.git
 cd ai-email-assistant
-2. 🐍 Create virtual environment (optional but recommended)
+
+
+3. 🐍 Create virtual environment (optional but recommended)
 bash
 Copy
 Edit
 python -m venv venv
 venv\Scripts\activate  # For Windows
-3. 📦 Install dependencies
+
+
+4. 📦 Install dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-4. 📝 Create a .env file
+
+
+6. 📝 Create a .env file
 env
 Copy
 Edit
