@@ -1,7 +1,7 @@
 import openai
 
 # 1. Set your OpenAI API key
-openai.api_key = "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"  # Replace with your real API key
+openai.api_key = " "  # Replace with your real API key
 
 # 2. Function to generate a polite email reply
 def generate_reply(email_body, sender_name):
